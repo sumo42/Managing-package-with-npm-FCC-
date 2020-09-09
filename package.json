@@ -1,5 +1,5 @@
 {
-	"author":"Sumesh Bk",
+	"author": "Sumesh Bk",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
