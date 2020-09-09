@@ -2,6 +2,10 @@
 	"author": "Sumesh Bk",
 	"description": "This is a FCC Managing Packages with Npm",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["practice","freecodecamp","API"],
+	"license":"MIT",
+	"version":"1.0.0",
+	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
